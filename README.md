@@ -3,7 +3,7 @@
 Systems and software engineer building reliable tools across embedded hardware and cross-platform desktop/mobile stacks.
 
 [Portfolio](https://horaciovaldes.com) · [Projects](https://horaciovaldes.com/#projects) · [Contact](https://horaciovaldes.com/#contact)
-
+---
 ## What I build
 
 - Embedded-integrated applications that bridge firmware devices and operator workflows.
@@ -20,10 +20,10 @@ Systems and software engineer building reliable tools across embedded hardware a
 
 ## Core Stack
 
-- Languages: C#, C, Swift, Python
-- Frameworks: .NET, Avalonia, UWP, SwiftUI
-- Embedded: STM32, UART/Serial, RS-485
-- Data: SQLite
+**Languages:** C#, C, Swift, Python  
+**Frameworks:** .NET, Avalonia, UWP, SwiftUI  
+**Embedded:** STM32, UART/Serial, RS-485  
+**Data:** SQLite
 
 ## Currently building
 
