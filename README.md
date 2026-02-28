@@ -17,6 +17,7 @@ Systems and software engineer building reliable tools across embedded hardware a
 - [OrderTracker](https://horaciovaldes.com/OrderTracker)
 - [Loaner Controller App](https://horaciovaldes.com/LoanerControllerApp)
 - [Loaner Laser App](https://horaciovaldes.com/LoanerLaserApp)
+- [Project Hub](https://horaciovaldes.com/ProjectHub)
 
 ## Core Stack
 
